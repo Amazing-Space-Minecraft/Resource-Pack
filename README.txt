@@ -9,7 +9,7 @@ Downloading this resource pack is not necessary, since it is the server pack.
 
 Changelog
 
-	Being updated: Version 1.7.2G maintained by ItsAlreadyGold, textures by gregolegomonkey
+	Being updated: Version 1.7.3G maintained by ItsAlreadyGold, textures by gregolegomonkey
 
 	To-do:
 
