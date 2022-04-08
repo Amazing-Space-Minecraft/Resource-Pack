@@ -13,9 +13,10 @@ Changelog
 
 	To-do:
 
-adding recolored grindstone texture
+add recolored grindstone texture
+add custom power armor module textures
 
-	Last updated: Version 1.7.2G 4/06/2022 maintained by ItsAlreadyGold, textures by gregolegomonkey
+	Last updated: Version 1.7.2G 4/08/2022 maintained by ItsAlreadyGold, textures by gregolegomonkey
 changed yellow glazed terracotta retexture (hazard stripes)
 changed orange glazed terracotta retexture (hazard stripes #2)
 readded energy sword sounds
@@ -24,6 +25,9 @@ readded old power drill texture
 readded old power chainsaw texture
 readded old gas canister textures
 readded battery textures
+fixed ore item textures not displaying
+fixed power armor module item textures not displaying
+added power armor module placeholder textures
 
 	Last updated: Version 1.7.1G 04/02/2022 maintained by ItsAlreadyGold, textures by gregolegomonkey
 added gray metal lightning rod texture
