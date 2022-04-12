@@ -16,6 +16,10 @@ Changelog
 add recolored grindstone texture
 add custom power armor module textures
 
+	Last updated: Version 1.7.3G 4/12/2022 maintained by ItsAlreadyGold, textures by gregolegomonkey
+removed red netherbrick texture, changed to vanilla texture
+removed smooth stone item texture
+
 	Last updated: Version 1.7.2G 4/08/2022 maintained by ItsAlreadyGold, textures by gregolegomonkey
 changed yellow glazed terracotta retexture (hazard stripes)
 changed orange glazed terracotta retexture (hazard stripes #2)
